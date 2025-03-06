@@ -37,7 +37,7 @@ Here are some screens of the **Shakti+** app:
 
 | **Welcome Screen** | **Emergency Dashboard** | **Live Tracking** |
 |----------------|----------------|----------------|
-| ![Welcome](#) | ![Dashboard](#) | ![Tracking](#) |
+| ![Welcome](https://github.com/link2shoaibansari/Shakti-women-s-safety-app/blob/f6ed505277b6d26c79d121d58f74169da752bcd2/Screenshot%202025-03-07%20002033.png) | ![Dashboard](https://github.com/link2shoaibansari/Shakti-women-s-safety-app/blob/f6ed505277b6d26c79d121d58f74169da752bcd2/Screenshot%202025-03-07%20002052.png) | ![Tracking](https://github.com/link2shoaibansari/Shakti-women-s-safety-app/blob/f6ed505277b6d26c79d121d58f74169da752bcd2/Screenshot%202025-03-07%20002100.png) |
 
 👀 **View Full Prototype on Figma:** [Click Here](#) *(Add Figma Link Here)*  
 
