@@ -1,5 +1,4 @@
 # Shakti-women-s-safety-app
-Here is a **detailed README.md file** for your **Shakti+** GitHub repository, covering **features, screenshots, prototype link, future scope, and development roadmap**.
 
 ---
 
@@ -94,18 +93,10 @@ Shakti+ is built using **Flutter** for cross-platform support, with **Firebase**
 ## **🔗 Contributing**
 Want to contribute to **Shakti+**? We welcome **developers, UI designers, and testers** to join us in making women’s safety smarter & more effective.  
 
-📩 **Get in Touch:** [Your Email/LinkedIn]  
-
----
-
-## **📜 License**
-**MIT License** – Free to use, modify, and distribute.  
+📩 **Get in Touch:** [link2shoaibansari@gmail.com/https://www.linkedin.com/in/md-shoaib-ansari-614985291/]  
 
 ---
 
 **🚀 Because Every Second Counts!** 💙 **#StaySafe #ShaktiPlus**  
 
 ---
-
-📌 **Next Steps:**  
-Would you like me to **set up your GitHub repository** with this README? 😊
